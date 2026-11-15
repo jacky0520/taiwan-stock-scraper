@@ -114,8 +114,6 @@ Downloaded data (`data/`) and charts (`output/`) are not stored in this reposito
 - The exchanges occasionally change their endpoints or field names. Columns are
   matched by keywords rather than exact names to reduce the impact, but an
   endpoint change would need a code update.
-- I first learned TWSE web scraping from a Python textbook. The code in this
-  repository is a complete rewrite and does not reuse the book's examples.
 
 ## Tools
 
