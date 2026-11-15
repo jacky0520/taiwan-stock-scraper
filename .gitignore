@@ -1,0 +1,18 @@
+# Downloaded data and generated charts
+data/
+output/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Editors / OS
+.spyproject/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
